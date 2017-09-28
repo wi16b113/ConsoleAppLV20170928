@@ -10,6 +10,7 @@ namespace ConsoleAppLV20170928
     {
         static void Main(string[] args)
         {
+            //übernimmst du die Änderungen so wie ich das will??
         }
     }
 }
